@@ -78,4 +78,4 @@ This project is open-source and available under the **MIT LICENSE**.
 
 ---
 
-© 2025 [Naitik Bajpai]
+© 2025 Naitik Bajpai
