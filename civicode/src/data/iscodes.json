@@ -1,0 +1,667 @@
+[
+  {
+    "code": "IS 456:2000",
+    "title": "Plain and Reinforced Concrete \u2013 Code of Practice",
+    "category": "Structures",
+    "year": 2000,
+    "summary": "Governs the design and construction of concrete structures including load factors, mix proportions, and durability requirements.",
+    "tags": [
+      "concrete",
+      "reinforcement",
+      "structures"
+    ],
+    "pages": [
+      { "page": 15, "content": "Concrete grade table (M20–M40)" },
+      { "page": 18, "content": "Cover requirements for beams/columns" }
+    ],
+    "link": "https://law.resource.org/pub/in/bis/S03/is.456.2000.pdf"
+  },
+  {
+    "code": "IS 800:2007",
+    "title": "General Construction in Steel",
+    "category": "Structures",
+    "year": 2007,
+    "summary": "Provides guidelines for the design and construction of steel structures used in buildings and infrastructure.",
+    "tags": [
+      "steel",
+      "structures",
+      "design"
+    ],
+    "link": "https://dn790009.ca.archive.org/0/items/gov.in.is.800.2007/is.800.2007.pdf"
+  },
+  {
+    "code": "IS 875 (Part 1\u20135)",
+    "title": "Loads on Structures (Dead, Live, Wind, Snow, etc.)",
+    "category": "Structures",
+    "year": 1987,
+    "summary": "Defines the various loads that a structure must safely withstand including dead, live, wind, and snow loads.",
+    "tags": [
+      "loads",
+      "wind",
+      "dead load",
+      "live load"
+    ],
+    "link": "https://ia801405.us.archive.org/17/items/gov.law.is.875.1.1987/is.875.1.1987.pdf"
+  },
+  {
+    "code": "IS 1893:2016",
+    "title": "Earthquake Resistant Design of Structures",
+    "category": "Structures",
+    "year": 2016,
+    "summary": "Specifies criteria for earthquake-resistant design of buildings and structures in seismic zones of India.",
+    "tags": [
+      "earthquake",
+      "seismic",
+      "design"
+    ],
+    "link": "https://www.cracindia.in/admin/uploads/IS-1893---part-1.pdf"
+  },
+  {
+    "code": "IS 10262:2019",
+    "title": "Concrete Mix Proportioning \u2013 Guidelines",
+    "category": "Concrete",
+    "year": 2019,
+    "summary": "Provides guidelines for proportioning concrete mixes for achieving required strength and workability.",
+    "tags": [
+      "mix design",
+      "concrete",
+      "proportioning"
+    ],
+    "pages": [
+      { "page": 5, "content": "M25 mix design example" },
+      { "page": 10, "content": "Water-cement ratio guidance" }
+    ],
+    "link": "https://law.resource.org/pub/in/bis/S03/is.10262.2009.pdf"
+  },
+  {
+    "code": "IS 3370",
+    "title": "Code of Practice for Concrete Structures for the Storage of Liquids",
+    "category": "Water",
+    "year": 2009,
+    "summary": "Covers design and construction of concrete tanks and structures used for liquid storage.",
+    "tags": [
+      "liquid storage",
+      "water tanks",
+      "concrete"
+    ],
+    "link": "https://law.resource.org/pub/in/bis/S03/is.3370.1.2009.pdf"
+  },
+  {
+    "code": "IS 2062",
+    "title": "Hot Rolled Medium and High Tensile Structural Steel",
+    "category": "Materials",
+    "year": 2011,
+    "summary": "Specifies steel quality and standards for use in structural and construction applications.",
+    "tags": [
+      "steel",
+      "materials",
+      "construction"
+    ],
+    "link": "https://law.resource.org/pub/in/bis/S10/is.2062.2011.pdf"
+  },
+  {
+    "code": "IS 2502",
+    "title": "Code of Practice for Bending and Fixing of Bars for Concrete Reinforcement",
+    "category": "Construction",
+    "year": 1963,
+    "summary": "Standardizes methods for cutting, bending, and placing reinforcement bars.",
+    "tags": [
+      "reinforcement",
+      "bars",
+      "bending"
+    ],
+    "link": "https://ia800108.us.archive.org/20/items/gov.in.is.2502.1963/is.2502.1963.pdf"
+  },
+  {
+    "code": "IS 383",
+    "title": "Specification for Coarse and Fine Aggregates from Natural Sources for Concrete",
+    "category": "Materials",
+    "year": 2016,
+    "summary": "Covers requirements for aggregates used in concrete construction including grading and quality.",
+    "tags": [
+      "aggregates",
+      "concrete",
+      "construction"
+    ],
+    "link": "https://icikbc.org/docs/IS383-2016.pdf"
+  },
+  {
+    "code": "IS 2720",
+    "title": "Methods of Test for Soils",
+    "category": "Geotech",
+    "year": 1975,
+    "summary": "Comprehensive series of methods for testing the properties of soils used in geotechnical analysis.",
+    "tags": [
+      "soils",
+      "testing",
+      "geotechnical"
+    ],
+    "link": "https://law.resource.org/pub/in/bis/S03/is.2720.1.1983.pdf"
+  },
+  {
+    "code": "IS 1343",
+    "title": "Prestressed Concrete \u2013 Code of Practice",
+    "category": "Structures",
+    "year": 2012,
+    "summary": "Details the design and construction practices for prestressed concrete structures.",
+    "tags": [
+      "prestressed",
+      "concrete",
+      "design"
+    ],
+    "link": "https://law.resource.org/pub/in/bis/S03/is.1343.1980.pdf"
+  },
+  {
+    "code": "IS 1786",
+    "title": "High Strength Deformed Steel Bars and Wires for Concrete Reinforcement",
+    "category": "Materials",
+    "year": 2008,
+    "summary": "Specifies requirements for steel bars and wires used in reinforced concrete applications.",
+    "tags": [
+      "steel",
+      "bars",
+      "reinforcement"
+    ],
+    "link": "https://www.spongeiron.in/standards/is.1786.2008.pdf"
+  },
+  {
+    "code": "IS 1200",
+    "title": "Method of Measurement of Building and Civil Engineering Works",
+    "category": "Estimation",
+    "year": 1976,
+    "summary": "Defines standardized methods for measuring quantities in civil engineering work.",
+    "tags": [
+      "measurement",
+      "estimation",
+      "civil works"
+    ],
+    "link": "https://law.resource.org/pub/in/bis/S03/is.1200.1.1992.pdf"
+  },
+  {
+    "code": "IS 13428",
+    "title": "Unplasticized PVC Pipes for Potable Water Supplies",
+    "category": "Water",
+    "year": 2005,
+    "summary": "Covers specifications and requirements for uPVC pipes used in water supply systems.",
+    "tags": [
+      "PVC",
+      "water",
+      "pipes"
+    ],
+    "link": "https://law.resource.org/pub/in/bis/S06/is.13428.2005.pdf"
+  },
+  {
+    "code": "IS 808:1989",
+    "title": "Dimensions for Hot Rolled Steel Beam, Column, Channel and Angle Sections",
+    "category": "Structures",
+    "year": 1989,
+    "summary": "Specifies the nominal dimensions, sectional properties, and designation of hot-rolled steel sections such as ISMB, ISWB, ISMC, ISA and ISHB used in structural steelwork.",
+    "tags": [
+      "steel sections",
+      "ISMB",
+      "ISWB",
+      "angles",
+      "channels"
+    ],
+    "pages": [
+      { "page": 5, "content": "Table of dimensions for ISMB and ISWB sections" },
+      { "page": 12, "content": "Properties like area, depth, flange width, and weight per metre" }
+    ],
+    "link": "https://law.resource.org/pub/in/bis/S03/is.808.1989.pdf"
+  },
+  {
+    "code": "IS 2386",
+    "title": "Methods of Tests for Aggregate for Concrete",
+    "category": "Materials",
+    "year": 1963,
+    "summary": "Comprehensive standard covering 9 parts that specify test methods for aggregates used in concrete construction. Includes tests for particle size distribution, abrasion resistance, crushing value, impact value, specific gravity, water absorption, alkali-aggregate reactivity, and other physical/chemical properties essential for quality concrete production.",
+    "tags": [
+      "aggregates",
+      "testing",
+      "concrete"
+    ],
+    "link": ""
+  },
+  {
+    "code": "IS 2430",
+    "title": "Methods of Sampling",
+    "category": "Quality Control",
+    "year": 1986,
+    "summary": "Standard procedures for representative sampling of construction materials including aggregates, cement, concrete, bricks and other building materials. Specifies sampling frequency, sample sizes, and methods to ensure samples truly represent the bulk material for quality control and testing purposes.",
+    "tags": [
+      "sampling",
+      "quality control",
+      "testing"
+    ],
+    "link": ""
+  },
+  {
+    "code": "IS 4082",
+    "title": "Specifications for Storage of Materials",
+    "category": "Construction",
+    "year": 1996,
+    "summary": "Detailed guidelines for proper storage of construction materials at job sites to prevent damage, contamination or deterioration. Covers storage methods for cement, aggregates, reinforcement steel, structural steel, bricks, admixtures, and other materials under various environmental conditions.",
+    "tags": [
+      "storage",
+      "materials",
+      "construction"
+    ],
+    "link": ""
+  },
+  {
+    "code": "IS 2116",
+    "title": "Permissible Clay, Silt and Fine Dust Contents in Sand",
+    "category": "Materials",
+    "year": 1980,
+    "summary": "Specifies maximum allowable limits for deleterious materials in sand used for construction. Defines test methods to determine clay, silt and fine dust content which can adversely affect workability, strength and durability of concrete and mortar if present beyond specified limits.",
+    "tags": [
+      "sand",
+      "quality",
+      "impurities"
+    ],
+    "link": ""
+  },
+  {
+    "code": "IS 2250",
+    "title": "Compressive Strength Test for Cement Mortar Cubes",
+    "category": "Testing",
+    "year": 1981,
+    "summary": "Standard procedure for preparation, curing and testing of 70.6mm cement mortar cubes to determine compressive strength. Specifies mix proportion (1:3 cement:sand by weight), water-cement ratio (0.4), curing conditions (27±2°C), testing age (3/7/28 days) and loading rate for accurate strength assessment of cement.",
+    "tags": [
+      "cement",
+      "testing",
+      "compressive strength"
+    ],
+    "link": ""
+  },
+  {
+    "code": "IS 269:2015",
+    "title": "Specifications for 33, 43 and 53 Grade OPC",
+    "category": "Materials",
+    "year": 2015,
+    "summary": "Comprehensive specifications for Ordinary Portland Cement grades 33, 43 and 53. Covers chemical requirements (lime saturation factor, insoluble residue, magnesia, SO3, loss on ignition), physical requirements (fineness, setting time, soundness), compressive strength requirements at 3, 7 and 28 days, and packing/marking requirements.",
+    "tags": [
+      "cement",
+      "OPC",
+      "grades"
+    ],
+    "link": ""
+  },
+  {
+    "code": "IS 455",
+    "title": "Specifications for PSC (Portland Slag Cement)",
+    "category": "Materials",
+    "year": 1989,
+    "summary": "Specifications for Portland Slag Cement containing 25-70% granulated blast furnace slag. Details chemical requirements, physical properties, strength development characteristics, and durability aspects. Particularly suitable for marine works, mass concrete structures, and where moderate sulfate resistance is needed.",
+    "tags": [
+      "cement",
+      "PSC",
+      "slag cement"
+    ],
+    "link": ""
+  },
+  {
+    "code": "IS 1489",
+    "title": "Specifications for PPC (Portland Pozzolana Cement)",
+    "category": "Materials",
+    "year": 1991,
+    "summary": "Specifications for Portland Pozzolana Cement containing 10-25% pozzolanic materials (fly ash or calcined clay). Covers chemical/physical requirements, strength criteria, and special properties like lower heat of hydration and improved sulfate resistance. Particularly suitable for hydraulic structures, marine works, and mass concrete.",
+    "tags": [
+      "cement",
+      "PPC",
+      "pozzolana"
+    ],
+    "link": ""
+  },
+  {
+    "code": "IS 6909",
+    "title": "Specifications for SSC (Super-Sulphated Cement)",
+    "category": "Materials",
+    "year": 1990,
+    "summary": "Specifications for Super-Sulphated Cement made from granulated blast furnace slag (80-85%), calcium sulfate (10-15%) and small amount of Portland cement. Has high sulfate resistance and low heat generation. Used in aggressive sulfate environments, marine structures, and where risk of sulfate attack exists.",
+    "tags": [
+      "cement",
+      "SSC",
+      "special cement"
+    ],
+    "link": ""
+  },
+  {
+    "code": "IS 8041",
+    "title": "Specifications for RHPC (Rapid Hardening Portland Cement)",
+    "category": "Materials",
+    "year": 1990,
+    "summary": "Specifications for Rapid Hardening Portland Cement which achieves high early strength through finer grinding and optimized composition. Gains strength about 25% higher than OPC at 1-3 days. Used in precast concrete, repair works, cold weather concreting, and projects requiring early formwork removal.",
+    "tags": [
+      "cement",
+      "RHPC",
+      "rapid hardening"
+    ],
+    "link": ""
+  },
+  {
+    "code": "IS 12330",
+    "title": "Specifications for SRPC (Sulphate Resistant Portland Cement)",
+    "category": "Materials",
+    "year": 1988,
+    "summary": "Specifications for Sulphate Resistant Portland Cement with restricted C3A content (<5%) to resist sulfate attack. Used in foundations, basements, sewage treatment plants, and other structures exposed to sulfate-bearing soils/water. Also provides better resistance to chloride penetration in marine environments.",
+    "tags": [
+      "cement",
+      "SRPC",
+      "sulphate resistant"
+    ],
+    "link": ""
+  },
+  {
+    "code": "IS 6452",
+    "title": "Specifications for HAC for Structural Use (High Alumina Cement)",
+    "category": "Materials",
+    "year": 1989,
+    "summary": "Specifications for High Alumina Cement with alumina content typically 40-80%. Gains very high strength rapidly and has excellent chemical resistance. Used in refractory concrete, emergency repairs, and chemical plants. Requires special precautions in mixing/curing due to rapid setting and strength conversion characteristics.",
+    "tags": [
+      "cement",
+      "HAC",
+      "high alumina"
+    ],
+    "link": ""
+  },
+  {
+    "code": "IS 3466",
+    "title": "Specifications for Masonry Cement",
+    "category": "Materials",
+    "year": 1988,
+    "summary": "Specifications for cement specially formulated for masonry work containing Portland cement and finely ground materials like limestone or slag. Produces more workable, water-retentive mortars with better bond strength than OPC. Used for bricklaying, blockwork, plastering and other masonry applications.",
+    "tags": [
+      "cement",
+      "masonry",
+      "mortar"
+    ],
+    "link": ""
+  },
+  {
+    "code": "IS 4031",
+    "title": "Chemical Analysis and Tests on Cement",
+    "category": "Testing",
+    "year": 1996,
+    "summary": "Comprehensive standard covering chemical analysis methods for cement including determination of SiO2, Al2O3, Fe2O3, CaO, MgO, SO3, loss on ignition, insoluble residue, and free lime. Also includes physical tests for fineness, soundness, setting time, and compressive strength following standardized procedures.",
+    "tags": [
+      "cement",
+      "testing",
+      "chemical analysis"
+    ],
+    "link": ""
+  },
+  {
+    "code": "IS 1199",
+    "title": "Methods of Sampling and Analysis of Concrete",
+    "category": "Testing",
+    "year": 1959,
+    "summary": "Standard procedures for sampling fresh concrete from mixers or trucks, preparing test specimens, and analyzing fresh properties. Covers sampling techniques, slump test, compacting factor test, flow test, air content measurement, temperature measurement, and making test cubes/beams for strength evaluation.",
+    "tags": [
+      "concrete",
+      "sampling",
+      "testing"
+    ],
+    "link": ""
+  },
+  {
+    "code": "IS 516",
+    "title": "Methods of Test for Strength of Concrete",
+    "category": "Testing",
+    "year": 1959,
+    "summary": "Standard methods for testing compressive strength (150mm cubes or cylinders), flexural strength (150×150×700mm beams), and split tensile strength (150mm diameter × 300mm cylinders) of hardened concrete. Specifies specimen preparation, curing conditions, testing procedures, loading rates, and calculation methods.",
+    "tags": [
+      "concrete",
+      "testing",
+      "strength"
+    ],
+    "link": ""
+  },
+  {
+    "code": "IS 13311",
+    "title": "Ultrasonic Testing of Concrete Structures",
+    "category": "Testing",
+    "year": 1992,
+    "summary": "Standard for non-destructive evaluation of concrete quality using ultrasonic pulse velocity measurements. Covers equipment requirements, testing procedures (direct, semi-direct, indirect methods), interpretation of results for assessing uniformity, detecting cracks/voids, and estimating strength based on established correlations.",
+    "tags": [
+      "concrete",
+      "testing",
+      "non-destructive"
+    ],
+    "link": ""
+  },
+  {
+    "code": "IS 4925",
+    "title": "Specifications for Concrete Batching Plant",
+    "category": "Equipment",
+    "year": 2004,
+    "summary": "Requirements for stationary and mobile concrete batching plants including capacity, accuracy of weighing systems (±1% for cement, ±2% for aggregates), mixing efficiency, controls, safety features, and maintenance requirements. Covers both tilting drum and pan type mixers used in ready-mix concrete production.",
+    "tags": [
+      "concrete",
+      "batching plant",
+      "equipment"
+    ],
+    "link": ""
+  },
+  {
+    "code": "IS 3025",
+    "title": "Tests on Water Samples",
+    "category": "Testing",
+    "year": 1986,
+    "summary": "Comprehensive standard with multiple parts covering chemical and physical tests for water quality assessment. Includes tests for pH, chlorides, sulfates, alkalinity, turbidity, solids content, organic impurities, and other parameters critical for determining suitability of water for concrete mixing and curing.",
+    "tags": [
+      "water",
+      "testing",
+      "quality"
+    ],
+    "link": ""
+  },
+  {
+    "code": "IS 4990",
+    "title": "Specifications for Plywood Formwork for Concrete",
+    "category": "Construction",
+    "year": 1993,
+    "summary": "Requirements for plywood used in concrete formwork including dimensional stability, surface finish, thickness tolerance, glue quality, moisture resistance, and structural properties. Covers both ordinary and film-faced plywood grades suitable for different concrete surface finish requirements.",
+    "tags": [
+      "formwork",
+      "plywood",
+      "concrete"
+    ],
+    "link": ""
+  },
+  {
+    "code": "IS 9103",
+    "title": "Specifications for Concrete Admixtures",
+    "category": "Materials",
+    "year": 1999,
+    "summary": "Comprehensive specifications for chemical and mineral admixtures including water reducers, superplasticizers, retarders, accelerators, air-entrainers, and corrosion inhibitors. Defines performance requirements, dosage limits, compatibility testing, and quality control procedures for admixture use in concrete.",
+    "tags": [
+      "concrete",
+      "admixtures",
+      "additives"
+    ],
+    "link": ""
+  },
+  {
+    "code": "IS 12200",
+    "title": "Specifications for PVC (Polyvinyl Chloride) Water Bars",
+    "category": "Water",
+    "year": 1987,
+    "summary": "Requirements for PVC water bars used in construction joints to prevent water leakage. Specifies dimensions, hardness, tensile strength, elongation, compression set, water absorption, and chemical resistance properties. Covers both center-bulb and dumbbell shaped water bars for different joint types.",
+    "tags": [
+      "PVC",
+      "water bars",
+      "joints"
+    ],
+    "link": ""
+  },
+  {
+    "code": "IS 1077",
+    "title": "Specifications for Bricks for Masonry Work",
+    "category": "Materials",
+    "year": 1992,
+    "summary": "Classification and requirements for common burnt clay building bricks. Defines classes (10, 7.5, 5, 3.5, 2.5) based on compressive strength, water absorption limits (<20% for class 10), dimensional tolerances, efflorescence limits, and appearance requirements for bricks used in load-bearing and non-load-bearing walls.",
+    "tags": [
+      "bricks",
+      "masonry",
+      "clay"
+    ],
+    "link": ""
+  },
+  {
+    "code": "IS 5454",
+    "title": "Methods of Sampling of Bricks for Tests",
+    "category": "Testing",
+    "year": 1978,
+    "summary": "Standard procedures for representative sampling of bricks from production lots or construction sites. Specifies sample sizes (minimum 20 bricks for compressive strength), random selection methods, marking, packing and transportation procedures to ensure samples represent the bulk for quality evaluation.",
+    "tags": [
+      "bricks",
+      "sampling",
+      "testing"
+    ],
+    "link": ""
+  },
+  {
+    "code": "IS 3495",
+    "title": "Methods of Testing of Bricks",
+    "category": "Testing",
+    "year": 1992,
+    "summary": "Standard test methods for burnt clay bricks including compressive strength (avg of 5 bricks), water absorption (24hr immersion), efflorescence (visual rating), dimensional measurements, and warpage. Specifies specimen preparation, testing conditions, apparatus requirements, and calculation methods.",
+    "tags": [
+      "bricks",
+      "testing",
+      "quality"
+    ],
+    "link": ""
+  },
+  {
+    "code": "IS 432",
+    "title": "Mild Steel of Grade I",
+    "category": "Materials",
+    "year": 1982,
+    "summary": "Specifications for mild steel of grade I with minimum yield strength of 250 MPa. Covers chemical composition (max 0.23% carbon), mechanical properties, permissible variations in dimensions/mass, testing requirements, and marking. Used for general construction purposes where high ductility is required.",
+    "tags": [
+      "steel",
+      "mild steel",
+      "grade I"
+    ],
+    "link": ""
+  },
+  {
+    "code": "IS 226",
+    "title": "Rolled Steel Made from Structural Steel",
+    "category": "Materials",
+    "year": 1975,
+    "summary": "Specifications for hot-rolled steel sections made from structural steel. Covers chemical composition, mechanical properties, tolerances on dimensions, straightness, and testing requirements for angles, channels, beams and other rolled sections used in structural steelwork.",
+    "tags": [
+      "steel",
+      "rolled steel",
+      "structural"
+    ],
+    "link": ""
+  },
+  {
+    "code": "IS 1877",
+    "title": "Mild Steel of Grade II",
+    "category": "Materials",
+    "year": 1992,
+    "summary": "Specifications for mild steel of grade II with minimum yield strength of 300 MPa. Defines chemical composition limits (higher carbon than grade I), mechanical properties, permissible defects, testing frequency, and marking requirements. Used where higher strength than grade I is needed with good weldability.",
+    "tags": [
+      "steel",
+      "mild steel",
+      "grade II"
+    ],
+    "link": ""
+  },
+  {
+    "code": "IS 1566",
+    "title": "Specifications for Hard Drawn Steel Wire Fabric for Reinforcing Concrete",
+    "category": "Materials",
+    "year": 1982,
+    "summary": "Requirements for welded steel wire fabric made from hard-drawn steel wire for concrete reinforcement. Specifies wire diameters (2-12mm), mesh sizes, tensile strength (485-785 MPa), bend test requirements, spacing tolerances, and packaging. Used in slabs, pavements, and other reinforced concrete elements.",
+    "tags": [
+      "steel",
+      "wire fabric",
+      "reinforcement"
+    ],
+    "link": ""
+  },
+  {
+    "code": "IS 1785",
+    "title": "Specifications for Plain Hard Drawn Steel Wire Fabric for Prestressed Concrete",
+    "category": "Materials",
+    "year": 1983,
+    "summary": "Requirements for uncoated stress-relieved hard-drawn steel wire fabric used in prestressed concrete applications. Specifies wire diameters (2.5-8mm), tensile strength (1380-1710 MPa), elongation, relaxation properties, and dimensional tolerances for fabric used in precast/prestressed elements.",
+    "tags": [
+      "steel",
+      "wire fabric",
+      "prestressed"
+    ],
+    "link": ""
+  },
+  {
+    "code": "IS 2090",
+    "title": "Specifications for High Tensile Strength Steel Bar for Prestressed Concrete",
+    "category": "Materials",
+    "year": 1983,
+    "summary": "Requirements for high tensile steel bars (yield strength > 1080 MPa) used in prestressed concrete. Covers chemical composition, mechanical properties (tensile strength, elongation, bend test), stress-strain characteristics, relaxation properties, and testing procedures for prestressing tendons.",
+    "tags": [
+      "steel",
+      "prestressed",
+      "high tensile"
+    ],
+    "link": ""
+  },
+  {
+    "code": "IS 2074",
+    "title": "Specifications for Prime Coat for Structural Steel",
+    "category": "Materials",
+    "year": 1992,
+    "summary": "Requirements for prime coat paints applied to structural steel surfaces before final painting. Specifies composition (zinc chromate or red oxide based), drying time, adhesion, flexibility, corrosion resistance, and compatibility with top coats. Essential for proper surface preparation and paint system performance.",
+    "tags": [
+      "steel",
+      "paint",
+      "protection"
+    ],
+    "link": ""
+  },
+  {
+    "code": "IS 2932",
+    "title": "Specifications for Synthetic Enamel Paint for Structural Steel",
+    "category": "Materials",
+    "year": 1992,
+    "summary": "Requirements for synthetic enamel paints used as finish coats on structural steel. Specifies composition (alkyd or epoxy based), color retention, gloss, flexibility, adhesion, drying time, and corrosion resistance properties for durable protective coatings in industrial and marine environments.",
+    "tags": [
+      "steel",
+      "paint",
+      "enamel"
+    ],
+    "link": ""
+  },
+  {
+    "code": "IS 12118",
+    "title": "Specifications for Polysulphide Sealants",
+    "category": "Materials",
+    "year": 1987,
+    "summary": "Requirements for two-component polysulfide-based sealants used in construction joints. Specifies properties like extrusion rate, cure time, elasticity, adhesion, hardness, and durability against weathering/chemicals. Used in expansion joints, curtain walls, and other applications requiring flexible, waterproof seals.",
+    "tags": [
+      "sealants",
+      "joints",
+      "polysulphide"
+    ],
+    "link": ""
+  },
+  {
+    "code": "SP 23",
+    "title": "Handbook on Concrete Mixes",
+    "category": "Concrete",
+    "year": 1982,
+    "summary": "Comprehensive handbook providing ready-to-use concrete mix designs for various grades (M10-M60) based on Indian materials and conditions. Includes mix proportion tables, adjustment factors for different materials, worked examples, and guidance on special mixes for different exposure conditions and applications.",
+    "tags": [
+      "concrete",
+      "mix design",
+      "handbook"
+    ],
+    "link": ""
+  }
+]
